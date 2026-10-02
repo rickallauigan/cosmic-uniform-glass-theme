@@ -30,6 +30,26 @@ A beautiful, modern dark theme for the COSMIC™ Desktop featuring a sleek glass
 ### Applet Panel
 ![Applet](images/applet.png)
 
+## Theme Variants
+
+### Uniform Glass Dark
+
+The original glass-focused theme. It keeps `is_frosted: true` so it can use compositor blur when COSMIC gains full frosted-glass support.
+
+### Uniform Glass Dark Performance
+
+A performance-first variant with the same palette, spacing, rounded corners, transparency, and overall visual design, but with compositor frosted blur explicitly disabled.
+
+This variant is intended for users who want the Uniform Glass appearance without enabling additional blur rendering when COSMIC compositor support becomes available.
+
+- Same dark palette
+- Same macOS-inspired blue accent
+- Same rounded geometry
+- Same window gaps
+- Same translucent background
+- Frosted compositor blur disabled
+- No extra daemon or background process
+
 ## Installation
 
 1. Open COSMIC™ Settings > Appearance
