@@ -50,6 +50,13 @@ This variant is intended for users who want the Uniform Glass appearance without
 - Frosted compositor blur disabled
 - No extra daemon or background process
 
+## Optional COSMIC layout
+
+An opt-in [macOS-inspired performance preset](presets/macos-performance/README.md)
+adds a compact top panel and a floating rounded bottom dock using native COSMIC
+configuration. It backs up panel/dock settings before changing managed keys.
+Theme import does not apply the preset.
+
 ## Installation
 
 1. Open COSMIC™ Settings > Appearance
