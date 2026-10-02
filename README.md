@@ -57,6 +57,9 @@ adds a compact top panel and a floating rounded bottom dock using native COSMIC
 configuration. It backs up panel/dock settings before changing managed keys.
 Theme import does not apply the preset.
 
+See [notification visibility options](docs/notification-visibility.md) for the
+COSMIC 1.9.0 styling limitations and optional readability approaches.
+
 ## Installation
 
 1. Open COSMIC™ Settings > Appearance

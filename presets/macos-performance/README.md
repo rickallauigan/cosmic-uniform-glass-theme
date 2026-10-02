@@ -76,4 +76,4 @@ blur switches in Appearance after importing on a newer schema.
 
 Validated using temporary configuration fixtures; the live desktop was not
 modified and visual results have not been tested in a live session.
-Notification banner colors are unchanged.
+Notification banner colors are unchanged; see [notification visibility](../../docs/notification-visibility.md).
